@@ -1,5 +1,5 @@
 // Write your solution here!
 function append() {
-  pets.push("Odie")
-  return pets
+  pets.push("Odie");
+  return pets;
 }
