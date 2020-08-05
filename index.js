@@ -1,3 +1,4 @@
 // Write your solution here!
-function append
+function append() {
   pets.push("Odie")
+}
