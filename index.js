@@ -1,2 +1,3 @@
 // Write your solution here!
-append = pets.push("Odie")
+def append
+  pets.push("Odie")
