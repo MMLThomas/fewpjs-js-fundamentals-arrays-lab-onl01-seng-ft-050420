@@ -1,13 +1,11 @@
 // Write your solution here!
 
-const append
+const append = ["Milo", "Otis", "Garfield"],
+      prepend = ["Milo", "Otis", "Garfield"],
+      removeLast = ["Milo", "Otis", "Garfield"],
+      removeFirst = ["Milo", "Otis", "Garfield"];
 
-
-
-function append() {
-  pets.push("Odie");
-  return pets;
-}
-
-removeLast.pop() 
+append.push("Odie")
+prepend.shift("Odie")
+removeLast.pop()
 removeFirst.unshift()
