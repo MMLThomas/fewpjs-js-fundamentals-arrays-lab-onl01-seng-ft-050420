@@ -1,2 +1,4 @@
 // Write your solution here!
-append = [...pets, "odie"]
+function append(name){
+  pets.push(name)
+}
