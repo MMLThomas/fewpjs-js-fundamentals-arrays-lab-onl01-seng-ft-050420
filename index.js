@@ -3,3 +3,6 @@ function append() {
   pets.push("Odie");
   return pets;
 }
+
+removeLast.pop() 
+removeFirst.unshift()
