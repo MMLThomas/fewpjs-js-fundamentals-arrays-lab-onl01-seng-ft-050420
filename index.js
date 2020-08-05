@@ -1,3 +1,3 @@
 // Write your solution here!
-def append
+function append
   pets.push("Odie")
