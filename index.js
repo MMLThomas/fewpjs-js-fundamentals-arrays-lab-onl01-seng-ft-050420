@@ -1,2 +1,5 @@
 // Write your solution here!
-append.push("Odie")
+function append() {
+  pets.push("Odie")
+  return pets
+}
