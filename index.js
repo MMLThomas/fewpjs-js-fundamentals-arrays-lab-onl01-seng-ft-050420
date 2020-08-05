@@ -6,6 +6,6 @@ const append = ["Milo", "Otis", "Garfield"],
       removeFirst = ["Milo", "Otis", "Garfield"];
 
 append.push("Odie")
-prepend.shift("Odie")
+prepend.unshift("Odie")
 removeLast.pop()
 removeFirst.shift()
